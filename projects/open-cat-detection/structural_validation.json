@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "images": 30,
+  "annotations": 41,
+  "classes": [
+    "cat"
+  ],
+  "unique_image_ids": true,
+  "unique_annotation_ids": true,
+  "all_image_references_valid": true,
+  "all_boxes_positive_and_in_bounds": true,
+  "all_categories_valid": true,
+  "full_resolution_visual_qa": "NOT COMPLETED",
+  "second_annotator_adjudication": "NOT COMPLETED"
+}
